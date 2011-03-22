@@ -17,7 +17,7 @@
  along with this program; if not, write to the Free Software
  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 -->
-<language id="cucumber" _name="Cubumber Plain Text" version="2.0" _section="Other">
+<language id="cucumber" _name="Cubumber Plain Text" version="2.0" _section="Others">
   <metadata>
     <property name="mimetypes">text/x-cucumber</property>
     <property name="globs">*.feature</property>
@@ -62,6 +62,7 @@
         <context ref="string-2"/>
         <context ref="key-en"/>
         <context ref="key-pt"/>
+        <context ref="key-pl"/>
       </include>
     </context>
 
